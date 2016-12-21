@@ -16,4 +16,3 @@ cask 'vagrant18' do
 
   zap delete: '~/.vagrant.d'
 end
-0
